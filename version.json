@@ -1,6 +1,6 @@
 {
     "latest_version": "1.0.0",
-    "download_url": "https://nexusai.app/download",
+    "download_url": "https://drive.google.com/drive/folders/1xfdw0ZcPqJvcyLJKkCnauYkHRvEyRhBA",
     "changelog": "Nexus AI v2.1.0 — Initial Release\n\n• JARVIS-style voice assistant with Gemini Live\n• 15 specialist AI agents\n• Google Calendar & Drive integration\n• Multi-account email (Gmail, Yahoo, Outlook)\n• Smart file memory with ChromaDB\n• Telegram remote control\n• Document creation (Word, Excel, PowerPoint, PDF)\n• 7-day free trial included",
     "min_version": "1.0.0"
 }
