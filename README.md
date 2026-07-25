@@ -1,82 +1,156 @@
-<p align="center">
-  <img src="nexus-banner.png" alt="Nexus AI Banner" width="100%">
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://drive.google.com/drive/folders/1xfdw0ZcPqJvcyLJKkCnauYkHRvEyRhBA"><img src="https://img.shields.io/badge/⬇_DOWNLOAD-Nexus_AI_v1.0.0-00e5ff?style=for-the-badge&labelColor=0a0e17" alt="Download Nexus AI"></a>
-  &nbsp;&nbsp;
-  <a href="https://getnexusai.pro"><img src="https://img.shields.io/badge/🌐_WEBSITE-getnexusai.pro-ff9520?style=for-the-badge&labelColor=0a0e17" alt="Website"></a>
-</p>
+<img src="nexus-banner.png" alt="Nexus AI Banner" width="100%">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/version-1.0.0-00e5ff?style=flat-square&labelColor=0a0e17" alt="Version">
-  <img src="https://img.shields.io/badge/platform-Windows_10%2F11-0078d4?style=flat-square&labelColor=0a0e17" alt="Platform">
-  <img src="https://img.shields.io/badge/agents-20-ff9520?style=flat-square&labelColor=0a0e17" alt="Agents">
-  <img src="https://img.shields.io/badge/license-Proprietary-78909c?style=flat-square&labelColor=0a0e17" alt="License">
-</p>
+<br><br>
+
+[![Download Nexus AI](https://img.shields.io/badge/%E2%AC%87%EF%B8%8F_DOWNLOAD-Nexus_AI_v1.0.0-00e5ff?style=for-the-badge&logo=windows&logoColor=white&labelColor=0a0e17)](https://drive.google.com/drive/folders/1xfdw0ZcPqJvcyLJKkCnauYkHRvEyRhBA)
+&nbsp;&nbsp;&nbsp;
+[![Visit Website](https://img.shields.io/badge/%F0%9F%8C%90_WEBSITE-getnexusai.pro-ff9520?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0a0e17)](https://getnexusai.pro)
+
+<br>
+
+![Version](https://img.shields.io/badge/Version-1.0.0-00e5ff?style=flat-square&labelColor=0a0e17)
+&nbsp;
+![Platform](https://img.shields.io/badge/Platform-Windows_10_%7C_11-0078d4?style=flat-square&logo=windows&logoColor=white&labelColor=0a0e17)
+&nbsp;
+![Agents](https://img.shields.io/badge/AI_Agents-15-ff9520?style=flat-square&labelColor=0a0e17)
+&nbsp;
+![License](https://img.shields.io/badge/License-Proprietary-78909c?style=flat-square&labelColor=0a0e17)
+
+<br>
 
 ---
 
-## What is Nexus AI?
+<br>
 
-**Nexus AI** is a 20-agent personal AI operating system that runs on your desktop. It combines voice control, intelligent task routing, and specialized satellite agents into one sleek interface — like having a team of AI specialists working for you.
+<img src="nexus-icon.png" width="100" alt="Nexus AI Icon">
 
-<p align="center">
-  <img src="nexus-icon.png" width="128" alt="Nexus AI Icon">
-</p>
+### Your Personal AI Operating System
+
+*A 15-agent desktop AI platform with voice control, intelligent task routing,*
+*and specialized satellite agents — like having a team of AI specialists at your command.*
+
+<br>
+
+</div>
+
+---
+
+<br>
 
 ## Key Features
 
-**🤖 20 Satellite Agents** — Finance, Research, Writing, HR, Data Analytics, Programming, Productivity, Legal, Travel, Project Management, and more. Each agent specializes in its domain.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**🎙️ Voice Control** — Talk to Nexus naturally. Built-in Piper TTS for voice responses and live microphone input for hands-free operation.
+### Intelligence
 
-**⚡ Smart Automation** — Task scheduling, workflow automation, and intelligent routing. Nexus picks the right agent for every request.
+**Satellite Agents** — 15 specialized AI agents covering Finance, Research, Writing, HR, Data Analytics, Programming, Productivity, Legal, Travel, Project Management, and more.
 
-**🖥️ HUD Dashboard** — Dark neon interface with cyan and orange accents. A futuristic command center for your AI.
+**Smart Routing** — A CTO coordinator routes tasks to 6 department leads. A QA Director maintains quality. Cost-aware model routing keeps things efficient.
 
-**🏢 Agent Company Architecture** — A CTO coordinator routes tasks to 6 department leads. A QA Director maintains a quality ledger. Cost-aware model routing keeps things efficient.
+**Task Automation** — Scheduling, workflow automation, and intelligent routing. Nexus picks the right agent for every request.
 
-**📧 Email & Calendar** — Full Gmail and Google Calendar integration. Read, compose, search, and schedule — all by voice or text.
+</td>
+<td width="50%" valign="top">
 
-**📁 File Management** — Scan, organize, convert, and process documents. Supports PDF, Word, Excel, images, and more.
+### Integration
 
-**🔒 Secure** — Your data stays local. API keys are stored on your machine, never uploaded.
+**Voice Control** — Talk to Nexus naturally. Built-in Piper TTS for responses and live microphone input for hands-free operation.
 
-## System Requirements
+**Email & Calendar** — Full Gmail and Google Calendar integration. Read, compose, search, and schedule — all by voice or text.
 
-| Requirement | Minimum |
-|------------|---------|
-| OS | Windows 10 or 11 (64-bit) |
-| RAM | 8 GB |
-| Disk | 1 GB free space |
-| Internet | Required (for AI model access) |
-| Python | Not required (bundled in installer) |
+**File Management** — Scan, organize, convert, and process documents. PDF, Word, Excel, images, and more.
 
-## Installation
+</td>
+</tr>
+</table>
 
-1. **Download** the installer from the button above (or [click here](https://drive.google.com/drive/folders/1xfdw0ZcPqJvcyLJKkCnauYkHRvEyRhBA))
-2. **Run** `NexusAI_Setup_1.0.0.exe`
-3. **Follow** the Setup Wizard — it guides you through API key setup, voice configuration, and agent preferences
-4. **Start** using Nexus AI with voice or text commands
+<br>
 
-## Free Trial
+<div align="center">
 
-Nexus AI includes a **7-day free trial** — no credit card required. After the trial, you can purchase a license key to continue using all features.
+| | Feature | Description |
+|:---:|:---|:---|
+| **HUD** | Dark Neon Dashboard | Futuristic command center with cyan and orange accents |
+| **Voice** | Natural Speech I/O | Piper TTS engine + live microphone input |
+| **Security** | 100% Local Data | API keys stored on your machine, never uploaded |
+| **Updates** | Auto-Updater | One-click updates with changelog preview |
 
-## Auto-Updates
+</div>
 
-Nexus AI checks for updates automatically at startup. When a new version is available, you'll see a changelog and can choose to update with one click.
-
-## Support
-
-- **Website:** [getnexusai.pro](https://getnexusai.pro)
-- **Email:** Windelx@yahoo.com
-- **Report a Bug:** Use the built-in "Report a Bug" button inside Nexus AI
+<br>
 
 ---
 
-<p align="center">
-  <b>Nexus AI</b> — Your Personal AI Operating System<br>
-  <sub>Built by vladgeorgian (George)</sub>
-</p>
+<br>
+
+## System Requirements
+
+<div align="center">
+
+| Component | Requirement |
+|:---|:---|
+| **Operating System** | Windows 10 or 11 (64-bit) |
+| **RAM** | 8 GB minimum |
+| **Disk Space** | 2 GB free space |
+| **Internet** | Required (for AI model access) |
+| **Python** | Not required (bundled in installer) |
+
+</div>
+
+<br>
+
+---
+
+<br>
+
+## Quick Start
+
+```
+1.  Download    →  Click the download button above
+2.  Install     →  Run NexusAI_Setup_1.0.0.exe
+3.  Configure   →  Follow the Setup Wizard (API keys, voice, agent preferences)
+4.  Launch      →  Start using Nexus AI with voice or text commands
+```
+
+<br>
+
+---
+
+<br>
+
+<div align="center">
+
+### Free Trial
+
+Nexus AI includes a **7-day free trial** — no credit card required.
+After the trial, purchase a license key to unlock all features permanently.
+
+<br>
+
+---
+
+<br>
+
+### Support
+
+**Website** &nbsp;→&nbsp; [getnexusai.pro](https://getnexusai.pro)
+&nbsp;&nbsp;|&nbsp;&nbsp;
+**Email** &nbsp;→&nbsp; [Windelx@yahoo.com](mailto:Windelx@yahoo.com)
+&nbsp;&nbsp;|&nbsp;&nbsp;
+**Bug Reports** &nbsp;→&nbsp; Built-in button inside Nexus AI
+
+<br>
+
+---
+
+<br>
+
+**Nexus AI** — Your Personal AI Operating System
+
+<sub>© 2026 Nexus AI. All rights reserved.</sub>
+
+</div>
